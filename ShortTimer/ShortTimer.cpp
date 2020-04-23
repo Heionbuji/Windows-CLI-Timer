@@ -7,7 +7,6 @@
 #include <Psapi.h>
 #include <propvarutil.h>
 #include <propkey.h>
-#include <synchapi.h>
 #include <strsafe.h>
 
 using namespace ABI::Windows::Data::Xml::Dom;

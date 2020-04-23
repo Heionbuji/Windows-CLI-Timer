@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortTimer", "ShortTimer\ShortTimer.vcxproj", "{D7954563-D4FD-4E09-864C-51E032123B69}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortTimerStart", "ShortTimerStart\ShortTimerStart.vcxproj", "{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{D7954563-D4FD-4E09-864C-51E032123B69}.Release|x64.Build.0 = Release|x64
 		{D7954563-D4FD-4E09-864C-51E032123B69}.Release|x86.ActiveCfg = Release|Win32
 		{D7954563-D4FD-4E09-864C-51E032123B69}.Release|x86.Build.0 = Release|Win32
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Debug|x64.ActiveCfg = Debug|x64
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Debug|x64.Build.0 = Debug|x64
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Debug|x86.ActiveCfg = Debug|Win32
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Debug|x86.Build.0 = Debug|Win32
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Release|x64.ActiveCfg = Release|x64
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Release|x64.Build.0 = Release|x64
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Release|x86.ActiveCfg = Release|Win32
-		{1B32DFD0-1A10-427D-A61E-AE3F894E9A22}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
